@@ -190,3 +190,7 @@ The wire format codec is portable and fuzzed:
 ```sh
 go test -fuzz FuzzDecode
 ```
+
+## License
+
+MIT; see [LICENSE](LICENSE).
